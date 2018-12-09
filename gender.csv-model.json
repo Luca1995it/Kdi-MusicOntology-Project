@@ -1,0 +1,11 @@
+{
+    "id": "gender.csv",
+    "name": "gender.csv",
+    "description": null,
+    "sourceColumns": [],
+    "mappingToSourceColumns": [],
+    "graph": {
+        "nodes": [],
+        "links": []
+    }
+}

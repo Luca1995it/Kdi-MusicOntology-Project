@@ -1,0 +1,8 @@
+digraph n0 {
+fontcolor="blue"
+remincross="true"
+label="gender.csv"
+subgraph cluster {
+label="model"
+}
+}
